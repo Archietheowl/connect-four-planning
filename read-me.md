@@ -1,6 +1,8 @@
-# Connect Four User Story
+# Connect 4 Project Planning
 
 ![Screen shot showing wire frame design for connect four game](./Assets/Screenshot%202024-09-12%20121500.png)
+
+## Connect Four User Story
 - Game to initialise when page loads
 - Clear heading showing that this is a connect four game
 - Instructions displayed how to start the game and play the game
